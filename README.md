@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vedantborse-ai/DSA/tree/master/0078-subsets) |
+| [0229-majority-element-ii](https://github.com/vedantborse-ai/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/vedantborse-ai/DSA/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
@@ -39,9 +40,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vedantborse-ai/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/vedantborse-ai/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vedantborse-ai/DSA/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vedantborse-ai/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vedantborse-ai/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
