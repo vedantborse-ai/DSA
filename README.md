@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vedantborse-ai/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vedantborse-ai/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/vedantborse-ai/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/vedantborse-ai/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2227-sum-of-subarray-ranges](https://github.com/vedantborse-ai/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -109,4 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedantborse-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/vedantborse-ai/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/vedantborse-ai/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/vedantborse-ai/DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
