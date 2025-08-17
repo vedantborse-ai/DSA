@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vedantborse-ai/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/vedantborse-ai/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/vedantborse-ai/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vedantborse-ai/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/vedantborse-ai/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedantborse-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/vedantborse-ai/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/vedantborse-ai/DSA/tree/master/0496-next-greater-element-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vedantborse-ai/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedantborse-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/vedantborse-ai/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vedantborse-ai/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vedantborse-ai/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vedantborse-ai/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+## Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/vedantborse-ai/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
