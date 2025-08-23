@@ -143,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/vedantborse-ai/DSA/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vedantborse-ai/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
