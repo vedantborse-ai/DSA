@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vedantborse-ai/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vedantborse-ai/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/vedantborse-ai/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedantborse-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vedantborse-ai/DSA/tree/master/0076-minimum-window-substring) |
 | [0229-majority-element-ii](https://github.com/vedantborse-ai/DSA/tree/master/0229-majority-element-ii) |
+| [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/vedantborse-ai/DSA/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/vedantborse-ai/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vedantborse-ai/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedantborse-ai/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantborse-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
 ## Quickselect
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedantborse-ai/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
