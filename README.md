@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vedantborse-ai/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vedantborse-ai/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/vedantborse-ai/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/vedantborse-ai/DSA/tree/master/0937-online-stock-span) |
 ## Sliding Window
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vedantborse-ai/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantborse-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -173,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedantborse-ai/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
