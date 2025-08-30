@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vedantborse-ai/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vedantborse-ai/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/vedantborse-ai/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/vedantborse-ai/DSA/tree/master/0937-online-stock-span) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantborse-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vedantborse-ai/DSA/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/vedantborse-ai/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vedantborse-ai/DSA/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/vedantborse-ai/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/vedantborse-ai/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/vedantborse-ai/DSA/tree/master/0937-online-stock-span) |
 ## Sliding Window
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedantborse-ai/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantborse-ai/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/vedantborse-ai/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vedantborse-ai/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
