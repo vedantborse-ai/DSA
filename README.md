@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vedantborse-ai/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/vedantborse-ai/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/vedantborse-ai/DSA/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/vedantborse-ai/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vedantborse-ai/DSA/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/vedantborse-ai/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/vedantborse-ai/DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vedantborse-ai/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vedantborse-ai/DSA/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/vedantborse-ai/DSA/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/vedantborse-ai/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vedantborse-ai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vedantborse-ai/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vedantborse-ai/DSA/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/vedantborse-ai/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/vedantborse-ai/DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/vedantborse-ai/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vedantborse-ai/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/vedantborse-ai/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/vedantborse-ai/DSA/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
