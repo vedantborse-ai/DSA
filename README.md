@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vedantborse-ai/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/vedantborse-ai/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0355-design-twitter](https://github.com/vedantborse-ai/DSA/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vedantborse-ai/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vedantborse-ai/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
